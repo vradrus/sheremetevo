@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="test" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="e-poll.me gps">
         <serverdata>
@@ -31,6 +31,13 @@
         </serverdata>
       </paths>
       <paths name="ippi-poll.e-poll.me exitpool">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="test">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
